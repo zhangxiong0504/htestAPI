@@ -1,0 +1,66 @@
+{
+  "uid" : "9230fe4773bde8cf",
+  "name" : "D:\\a\\htestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_getuserinfo",
+  "fullName" : "testcase.D:\\a\\htestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_getuserinfo",
+  "historyId" : "839258dc5afe7fce6f50b36310e96562",
+  "time" : {
+    "start" : 1554628685628,
+    "stop" : 1554628685668,
+    "duration" : 40
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "注册模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "PC-20190203TCHS"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "获取用户信息"
+  }, {
+    "name" : "thread",
+    "value" : "10740-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\a\\htestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_getuserinfo"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9230fe4773bde8cf.json",
+  "parameterValues" : [ ]
+}

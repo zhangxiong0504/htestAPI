@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcase.D:\a\htestAPI\testcase\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_zhuce_saveorupdateuser","40",""
+"passed","testcase.D:\a\htestAPI\testcase\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_login","40",""
+"passed","testcase.D:\a\htestAPI\testcase\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_getuserinfo","40",""
+"passed","testcase.D:\a\htestAPI\testcase\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_login_success","140",""

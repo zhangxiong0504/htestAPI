@@ -1,0 +1,73 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "注册模块",
+    "children" : [ {
+      "name" : "管理员登录",
+      "children" : [ {
+        "name" : "D:\\a\\htestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_login_success",
+        "uid" : "b1bbe8b33b3c3302",
+        "parentUid" : "7b263f97fb8349d6171be83fc5ea38da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554628685488,
+          "stop" : 1554628685628,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b263f97fb8349d6171be83fc5ea38da"
+    }, {
+      "name" : "获取用户信息",
+      "children" : [ {
+        "name" : "D:\\a\\htestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_getuserinfo",
+        "uid" : "9230fe4773bde8cf",
+        "parentUid" : "a9cb30cffc8854220a7576be1d56fd8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554628685628,
+          "stop" : 1554628685668,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a9cb30cffc8854220a7576be1d56fd8a"
+    }, {
+      "name" : "注册用户",
+      "children" : [ {
+        "name" : "D:\\a\\htestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_zhuce_saveorupdateuser",
+        "uid" : "1d170e1589244728",
+        "parentUid" : "55e884aff375986ad22468e03068f452",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554628685668,
+          "stop" : 1554628685708,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "55e884aff375986ad22468e03068f452"
+    }, {
+      "name" : "注册登录",
+      "children" : [ {
+        "name" : "D:\\a\\htestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_login",
+        "uid" : "557862ef6d673b17",
+        "parentUid" : "04c6210966ae1ecadc303e73643bb1b8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554628685708,
+          "stop" : 1554628685748,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "04c6210966ae1ecadc303e73643bb1b8"
+    } ],
+    "uid" : "76e5fd360fd49f5d26aa0e7d1dc18c5c"
+  } ]
+}

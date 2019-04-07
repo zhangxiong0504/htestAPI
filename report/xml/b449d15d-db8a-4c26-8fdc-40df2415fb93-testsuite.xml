@@ -1,0 +1,62 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554628957854" stop="1554628961094">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554628957854" status="passed" stop="1554628960974">
+      <name>D:\a\htestAPI\testcase\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="管理员登录"/>
+        <label name="feature" value="注册模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9072-MainThread"/>
+        <label name="host" value="PC-20190203TCHS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554628960974" status="passed" stop="1554628961014">
+      <name>D:\a\htestAPI\testcase\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_getuserinfo</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="获取用户信息"/>
+        <label name="feature" value="注册模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9072-MainThread"/>
+        <label name="host" value="PC-20190203TCHS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554628961014" status="passed" stop="1554628961064">
+      <name>D:\a\htestAPI\testcase\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_zhuce_saveorupdateuser</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="注册用户"/>
+        <label name="feature" value="注册模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9072-MainThread"/>
+        <label name="host" value="PC-20190203TCHS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554628961064" status="passed" stop="1554628961094">
+      <name>D:\a\htestAPI\testcase\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_login</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="注册登录"/>
+        <label name="feature" value="注册模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9072-MainThread"/>
+        <label name="host" value="PC-20190203TCHS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

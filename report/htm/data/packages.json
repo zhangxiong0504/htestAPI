@@ -1,0 +1,57 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "D:\\a\\htestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_login_success",
+      "uid" : "b1bbe8b33b3c3302",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554628685488,
+        "stop" : 1554628685628,
+        "duration" : 140
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\a\\htestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_getuserinfo",
+      "uid" : "9230fe4773bde8cf",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554628685628,
+        "stop" : 1554628685668,
+        "duration" : 40
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\a\\htestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_zhuce_saveorupdateuser",
+      "uid" : "1d170e1589244728",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554628685668,
+        "stop" : 1554628685708,
+        "duration" : 40
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\a\\htestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_login",
+      "uid" : "557862ef6d673b17",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554628685708,
+        "stop" : 1554628685748,
+        "duration" : 40
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "559e15d0a5469c40d1629e36b5ae40ea"
+  } ]
+}

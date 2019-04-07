@@ -1,0 +1,4 @@
+{
+  "test_sys_changePwd.py::Test_ChangePwd::()::test_changepwd_success": true,
+  "test_sys_userinfo.py::Test_GetUserInfo::()::test_getuserinfo": true
+}

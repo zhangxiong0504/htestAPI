@@ -1,0 +1,6 @@
+[
+  "test_user_saveOrUpdateUser.py::Test_saveOrUpdateUser::()::test_login_success",
+  "test_user_saveOrUpdateUser.py::Test_saveOrUpdateUser::()::test_getuserinfo",
+  "test_user_saveOrUpdateUser.py::Test_saveOrUpdateUser::()::test_zhuce_saveorupdateuser",
+  "test_user_saveOrUpdateUser.py::Test_saveOrUpdateUser::()::test_login"
+]
